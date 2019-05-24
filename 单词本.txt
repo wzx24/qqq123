@@ -1,0 +1,63 @@
+Mybatis
+
+statement n. 声明; 陈述，叙述; 报表，清单
+transaction（事务）
+Connection 连接
+ORM 对象关系映射（Object Relational Mapping）
+% 用于占位符
+dependency 依赖
+groupId 组织id
+artifactId 工程名
+version 版本
+domain 域
+author 作者
+company 公司
+serializable 可序列化
+config 配置
+encoding 编码
+configuration 配置（也是标签名称）
+environment 环境
+default 默认
+manager 管理
+datasource 数据源
+type 类型
+property 属性
+driver 程序驱动
+url 统一资源定位系统
+uri 统一资源标识符
+resource 资源
+mapper 映射
+namespace 全限定类名
+space 空间 
+insert 增
+delete 删
+update 改
+select 查
+InputStream 字节输入流
+outputStream 字节输出流
+输出是写  输入是读
+
+SVN
+
+modify 修改
+repair 修复
+message 信息
+confict 冲突
+merge 合并
+block 块
+control 控制
+location 本地
+repository 仓库
+incoming 引入
+context 环境
+product 产品
+client 客户
+prefix 前缀
+
+
+
+
+
+
+
+
